@@ -10,3 +10,6 @@ run: npm run start
 
 # Branching
 einen main Branch mit essenziellen datein wie .gitignore und jeder sprint ist ein neuer branch.
+
+
+# Wenn npm nicht geht node.js installieren
