@@ -1,8 +1,12 @@
 # ChuiBox
 # Setup
-alle die selbe apsetings.json conection string damit der nicht im gitignore sein muss
+alle die selbe apsetings.json conection string damit der nicht im gitignore sein muss.
 
 
 # Wenn kein css da ist
-npm install sass 
-npm run start
+run: npm install sass 
+run: npm run start
+
+
+# Branching
+einen main Branch mit essenziellen datein wie .gitignore und jeder sprint ist ein neuer branch.
