@@ -4,3 +4,4 @@ obj/
 *.user
 app.css
 app.css.map
+Migrations/
