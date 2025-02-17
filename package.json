@@ -1,0 +1,25 @@
+{
+  "name": "chuibox",
+  "version": "1.0.0",
+  "description": "package for the sass skripts custome",
+  "homepage": "https://github.com/HTL-KREMS-4BHITM/ChuiBox#readme",
+  "bugs": {
+    "url": "https://github.com/HTL-KREMS-4BHITM/ChuiBox/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HTL-KREMS-4BHITM/ChuiBox.git"
+  },
+  "license": "ISC",
+  "author": "Raphael",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch WebGui/Scss/index.scss:WebGui/wwwroot/app.css",
+    "start": "sass WebGui/Scss/index.scss:WebGui/wwwroot/app.css"
+  },
+  "dependencies": {
+    "sass": "^1.85.0"
+  },
+  "devDependencies": {}
+}
