@@ -1,0 +1,55 @@
+- speisen => photoshop datei
+
+- farben palette => speisekarte
+
+- user interface 
+
+- Such engine optimierung
+
+- zeitlich online shop (bestellung) ausschalten => info erst offen ab 11
+
+- kunden benachrichtiguneng längerenachrichten zeiten => wenn die bestllung rein kommt
+
+- Keine kunden Daten speichern => keinen kunden konten (wenn möglich muss nicht sein)
+
+- Alergene hinterlegt bei den speisen in der speise karte
+
+- Speisen deaktivieren weil ausverkauft - will ausblenden können wenn nicht mehr zuhaben
+
+- preis änderung durch csv datei wegen massenpreisänderung 
+
+- online bezahlung implementieren aber nicht activieren (optional)
+
+- zahlung in bar und bankomat
+
+- Agb richtlinen + cockies
+
+- newsletter an angemeldete kunden per email - wenn userkonten umgesetzt 
+
+- Bestell bestätigung an kunden und firma mit format (Carina foto) 
+
+- ausdruck von allen speisen als pdf => speisekarte für kunden zuhause -> einfach alle speisen in pdf formatieren
+
+- einen datensatz bei verschieden kategorien (new, vegitarisch) auf list bar 
+
+- rabat codes (gutscheine) 
+
+- Bestellungs Zeitstrall -> speisen - daten - bezahlung - bestätigung...
+
+- auf der landing/home page eine news seite - will images und text hinzufügen können
+
+- bei bestellung zeitraum ngeben wann wollen zum abholen aber min 30 minute ab jetzigen zeitraum zb 16 Uhr dann erst möglich 16:30 (noodle king)
+
+- allergene und zutaten als dropdown mit i bei speisen fenster
+
+- in footer impressum,facebook, ....
+
+- für admin normal mehrere user möglich mit passwort änderung
+
+
+
+
+
+
+
+
